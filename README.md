@@ -38,9 +38,7 @@ If either are not possible due to timezone conflicts, then contact me, Just, you
 
 ## “Sprints”
 
-We use a two week sprint methodology. At the end of each sprint, we discuss how we think it went, and then we plan for next sprint. We do this in Basecamp as to tie it all in with the project and its todos.
-
-Each Sprint will have a thread in Basecamp, and planning will be done with the todos in Basecamp.
+At first, we will use a one week sprint methodology. At the end of each sprint, we discuss how we think it went, and then we plan for next sprint. The discussion will happen in Slack under Sprint Planning, but task management and specific task discussion will happen in Basecamp.
 
 ## Coding Practices
 
