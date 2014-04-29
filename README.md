@@ -22,6 +22,24 @@ Slack will be our logged chat and direct messaging. Specific rooms will be label
 
 Slack has the feature of specifically naming those you want notified of your question or comment. It’s done similarly to Twitter. This naming will send the user an email notification that you want to chat.
 
+## TODO Management
+
+There are four todo lists:
+
+1. Backlog
+2. Todo
+3. Doing
+4. Completed
+5. Accepted
+
+The methodology tracks the stages of a todo, rather than the binary state of done or not.
+
+What this means is that if a task is in the Todo list and assigned to you it's ready and you accept the task as is (you plan on doing it this sprint). Once you actually start the task, you move it to Doing. When you finish the task, you move it to Completed.
+
+Then, I'll move it to accepted after I've reviewed it, merged it …
+
+When the sprint is over, that's when I'll check the all off, so they are removed from the list.
+
 ### Github
 
 Use Github sparingly as their issue management is not very well designed, IMO, and it’s hard to manage multiple threads. *Only* use Github for **code** specific communications, and PR comments.
